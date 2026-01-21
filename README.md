@@ -14,12 +14,12 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Teinc3/teinc3.github.io"><strong>teinc3.github.io</strong></a></td>
-      <td>Node.js, HTML4, showdown.js, Github Actions, SSG (Static Site Generation)</td>
+      <td>Node.js, HTML4, showdown.js, SSG (Static Site Generation)</td>
       <td>A personal website styled with a brutalist Y2K theme, built to HTML4-compliant standards</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Teinc3/Evoku"><strong>Evoku</strong></a></td>
-      <td>TypeScript, Angular, WebSockets, Azure DevOps, Redis, PostgreSQL, Docker</td>
+      <td>TypeScript, Angular, WebSockets, Github Actions, MS Azure, Redis, PostgreSQL, Docker</td>
       <td>A multiplayer, online Sudoku game with interactive powerups, revolving around a Yin-Yang theme</td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Teinc3/ProboTanki-Lib"><strong>ProboTanki-Lib</strong></a></td>
-      <td>Python, Cython, TCP, SOCKS5 Proxies, asyncio, multithreading</td>
+      <td>Python, Cython, TCP, SOCKS5 Proxies, asyncio, multithreading, Wheels, PyPI</td>
       <td>A library containing reverse-engineered packets, cryptographic functions and networking utilities for connecting to ProTanki servers</td>
     </tr>
     <tr>
