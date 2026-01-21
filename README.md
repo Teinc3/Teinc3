@@ -1,4 +1,4 @@
-<h1>Teinc3's Profile</h1>
+<h1>Teinc3's Portfolio</h1>
 
 <table>
   <thead>
@@ -28,7 +28,7 @@
       <td>A bot that simulates democratic voting systems and concensus algorithms on a Discord Server</td>
     </tr>
     <tr>
-      <td colspan="4" align="center">Territorial.io Simulation and Game Theory</td>
+      <td colspan="4" align="center">Territorial.io Simulation and Theory</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Teinc3/TerriEngine"><strong>TerriEngine</strong></a></td>
@@ -43,7 +43,7 @@
     <tr>
       <td><a href="https://github.com/Teinc3/gold-digger"><strong>gold-digger</strong></a></td>
       <td>Python, C, multiprocessing, WebSockets</td>
-      <td>Script to automatically farm gold in Territorial.io, featuring a algorithmic optimisation of a POW nonce function, reducing complexity from <strong>O(n)</strong>strong> to <strong>O(log(n))</strong></td>
+      <td>Script to automatically farm gold in Territorial.io, featuring a algorithmic optimisation of a POW nonce function, reducing complexity from <strong>O(n)</strong> to <strong>O(log(n))</strong></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Teinc3/Project-Messiah"><strong>Project Messiah</strong></a></td>
@@ -56,12 +56,12 @@
     <tr>
       <td><a href="https://github.com/Teinc3/ProboTanki-Lib"><strong>ProboTanki-Lib</strong></a></td>
       <td>Python, Cython, TCP, SOCKS5 Proxies, asyncio, multithreading</td>
-      <td>A library containing reverse-engineered packets, cryptographic functions and networking utilities for connecting to ProTanki game servers</td>
+      <td>A library containing reverse-engineered packets, cryptographic functions and networking utilities for connecting to ProTanki servers</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Teinc3/ProboTanki-Proxy"><strong>ProboTanki-Proxy</strong></a></td>
       <td>Python, PyQT5</td>
-      <td>A MITM proxy server capable of intercepting and modifying packets between the ProTanki client and server</td>
+      <td>A MITM proxy server capable of intercepting and modifying binary packets between the ProTanki client and server</td>
     </tr>
   </tbody>
 </table>
