@@ -1,1 +1,1 @@
-<a>https://teinc3.github.io</a> for more information
+Projects actively maintained are pinned below:
