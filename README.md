@@ -1,1 +1,1 @@
-Projects actively maintained are pinned below:
+Open-source projects actively maintained by me are pinned below:
